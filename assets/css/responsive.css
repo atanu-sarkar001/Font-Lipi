@@ -1,0 +1,243 @@
+/* hero section start */
+@media (max-width:425px) {
+    #hero {
+        width: 100%;
+        height: 270px;
+        background-image: url(../img/banner.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .hero .hero-text h2 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .hero .hero-text h1 {
+        font-size: 25px;
+        margin-top: 50px;
+    }
+
+    .hero .hero-text h2 {
+        position: relative;
+    }
+
+    .hero .hero-text .img-1 img {
+        position: absolute;
+        width: 50px;
+        top: 95px;
+        left: -210px;
+    }
+
+    .hero .hero-text .img-2 img {
+        position: absolute;
+        width: 50px;
+        top: 95px;
+        right: 50px;
+    }
+}
+
+/* hero-box */
+@media (max-width:425px) {
+    .hero .hero-box .box {
+
+        border: 1px solid #fff;
+        position: absolute;
+        left: 90px;
+        top: 135px;
+        padding: 5px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .hero .hero-box .box-2 {
+        border: 1px solid #fff;
+        position: absolute;
+        left: 173px;
+        top: 135px;
+        padding: 5px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .hero .hero-box .box-3 {
+        border: 1px solid #fff;
+        position: absolute;
+        left: 255px;
+        top: 135px;
+        padding: 5px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    /* box */
+    .hero .hero-box .box h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+
+    .hero .hero-box .box p {
+        font-size: 8px;
+        font-weight: 400;
+    }
+
+    /* box-3 */
+    .hero .hero-box .box-2 h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+
+    .hero .hero-box .box-2 p {
+        font-size: 8px;
+        font-weight: 400;
+    }
+
+    /* box-3 */
+    .hero .hero-box .box-3 h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+
+    .hero .hero-box .box-3 p {
+        font-size: 8px;
+        font-weight: 400;
+    }
+}
+
+/* mouch btn */
+@media (max-width:425px) {
+    .hero .button-1 {
+        position: absolute;
+        top: 220px;
+        left: 180px;
+        font-size: 10px;
+
+    }
+
+}
+
+/* hero section end */
+
+@media (max-width:425px) {
+    .service-wrapper .service-box h2 {
+        font-size: 26px;
+    }
+
+    .service-wrapper .service-box p {
+        font-size: 14px;
+    }
+}
+
+
+/* bangla font section start  */
+@media (max-width:425px) {
+    .c-p-l {
+        padding: 0px;
+    }
+
+    .bangla-font h2 {
+        text-align: center;
+    }
+
+    .bangla-font .font p {
+        text-align: center;
+    }
+
+}
+
+/* bangla font section end */
+
+/* course section start */
+@media (max-width:425px) {
+    .online-course .course {
+        margin-left: 58px;
+    }
+
+    .c-p-ll {
+        padding-left: 300px;
+
+    }
+
+    .callagraphy .btn-3 .btn-2 {
+
+        margin-left: 124px
+    }
+
+    .callagraphy h2 {
+        text-align: center;
+    }
+
+    .callagraphy .card-3 {
+
+        position: relative;
+    }
+
+    .callagraphy .card-3 .over-flow {
+        position: absolute;
+        top: 35px;
+        right: 25px;
+    }
+}
+
+/* course section end */
+
+
+/* titorial */
+@media (max-width:425px) {
+
+    .tutorial .btn-3 {
+        display: block;
+        margin-left: 100px;
+    }
+
+    .tutorial .video {
+        margin-left: 35px;
+    }
+
+    .tutorial .text {
+        margin-left: 35px;
+    }
+
+    /* footer */
+    @media (max-width:425px) {
+
+        .footer .footer-start {
+            margin-top: 20px;
+            margin-left: 110px;
+            margin-bottom: 100px;
+        }
+
+        .footer .importent {
+            margin-top: 35px;
+            margin-left: 120px;
+        }
+
+        .footer .service {
+            margin-top: 120px;
+            margin-left: 120px;
+        }
+
+        .footer .contact {
+            margin-top: 12px;
+            margin-left: 120px;
+        }
+
+    }
+
+    /* titorial */
+
+    /* footer section strt */
+    @media (max-width:425px) {
+        .footer .footer-main {
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+
+        .footer .footer-icon {
+            margin-left: 65px;
+            margin-top: 15px;
+        }
+    }
+
+    /* footer section end */
